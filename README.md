@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **yiliu30/yiliu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 - 🔭 I’m currently working on @Intel
 - 🌱 I’m currently learning LLM, Quantization, TGI...
@@ -22,9 +23,7 @@ Here are some ideas to get you started:
 [![Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiliu30&count_private=true&show_icons=true)](https://github.com/yiliu30)
 
 
-
-<!--
-
+-->
 <h1 align=center>Hugo PaperMod | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Demo</a></h1>
 
 <h4 align=center>☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive</h4>
@@ -131,5 +130,3 @@ Release ChangeLog has info about stuff added: **[Releases](https://github.com/ad
 ## Stargazers over time 📈
 
 [![Stargazers over time](https://starchart.cc/adityatelange/hugo-PaperMod.svg?background=%23ffffff00&axis=%23858585&line=%236b63ff)](https://starchart.cc/adityatelange/hugo-PaperMod)
-
--->
